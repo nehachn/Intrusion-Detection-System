@@ -7,6 +7,7 @@ Dataset can downloaded from [here](https://drive.google.com/file/d/18PYd2fjukQtH
 
 # Target
 While making Intrusion Detection Model I have tried to answer following questions as well - 
-1. Why do we need machine learning for intrusion detection ?				
-2. Which one works better: supervised, semi-supervised or unsupervised ?  
+  1. Why do we need machine learning for intrusion detection ?				
+  2. Which one works better: supervised, semi-supervised or unsupervised ?  
+
 I have implemented supervised and unsupervised approach and compared their results which can be seen in [Results.pdf](https://github.com/nehachn/Intrusion-Detection-System/blob/main/Results.pdf)
